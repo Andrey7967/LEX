@@ -1,0 +1,208 @@
+
+body {
+background: rgb(254, 240, 255);
+font-family: "Squada One", sans-serif;
+/*font-family: "Notable", sans-serif;*/
+/*font-weight: 400;*/
+
+font-style:italic;
+}
+
+#logo {
+    height: 80px;
+    margin-top: 10px;
+    margin-left: 43%;
+   
+}
+
+#desc {
+    margin-left : 36%;
+}
+#play_button {
+  
+    margin: auto;
+    width:450px;
+    height:200px;
+    font-size: 130px;
+    transition: all 300ms ease-in;
+    text-align: center;
+    box-sizing:border-box ;
+    padding-top:30px;
+    border-radius: 40px;
+    background: rgb(254, 240, 255);
+    box-shadow:  9px 9px 18px rgb(234, 175, 234),
+                 -9px -9px 18px #ffffff;
+}
+#word1 {
+    font-family: "Yeseva One", serif;
+    margin: auto;
+    margin-bottom: 40px;
+    width:450px;
+    height: 50px;
+    transition: all 300ms ease;
+    text-align: center;
+    box-sizing:border-box ;
+    padding-top: 15px;
+    display: none;
+    border-radius: 15px;
+    background: rgb(254, 240, 255);
+    box-shadow:  9px 9px 18px rgb(234, 175, 234),
+                 -9px -9px 18px #ffffff;
+}
+#word2 {
+    font-family: "Yeseva One", serif;
+    margin: auto;
+    margin-bottom: 40px;
+    width:450px;
+    height: 50px;
+    transition: all 300ms ease;
+    text-align: center;
+    box-sizing:border-box ;
+    padding-top:15px;
+    display: none;
+    border-radius: 15px;
+    background: rgb(254, 240, 255);
+    box-shadow:  9px 9px 18px rgb(234, 175, 234),
+                 -9px -9px 18px #ffffff;
+}
+#word3 {
+    font-family: "Yeseva One", serif;
+    margin: auto;
+    margin-bottom: 40px;
+    width:450px;
+    height: 50px;
+    transition: all 300ms ease;
+    text-align: center;
+    box-sizing:border-box ;
+    padding-top:15px;
+    display: none;
+    border-radius: 15px;
+    background: rgb(254, 240, 255);
+    box-shadow:  9px 9px 18px rgb(234, 175, 234),
+                 -9px -9px 18px #ffffff;
+}
+#app {
+    font-size: 30px;
+   margin-top: 20px;
+    position: absolute;
+    height: 50px;
+    width:100px;
+    text-align: center;
+    box-sizing:border-box ;
+    padding-top:10px;
+    
+    border-radius: 15px;
+    background: rgb(254, 240, 255);
+    box-shadow:  9px 9px 18px rgb(234, 175, 234),
+                 -9px -9px 18px #ffffff;
+}
+#word4 {
+    font-family: "Yeseva One", serif;
+    margin: auto;
+    margin-bottom: 40px;
+    width:450px;
+    height: 50px;
+    transition: all 300ms ease;
+    text-align: center;
+    box-sizing:border-box ;
+    padding-top:15px;
+    display: none;
+    border-radius: 15px;
+    background: rgb(254, 240, 255);
+    box-shadow:  9px 9px 18px rgb(234, 175, 234),
+                 -9px -9px 18px #ffffff;
+}
+#guess {
+   
+    font-size: 30px;
+    margin: auto;
+    margin-bottom: 40px;
+    height: 80px;
+    width:450px;
+    text-align: center;
+    box-sizing:border-box ;
+    padding-top:25px;
+    display: none;
+    border-radius: 15px;
+    background: rgb(254, 240, 255);
+    box-shadow:  9px 9px 18px rgb(234, 175, 234),
+                 -9px -9px 18px #ffffff;
+}
+#answer {
+    font-size: 30px;
+    font-family: "Yeseva One", serif;
+    transition: all 300ms ease-in-out;
+    justify-content: center;
+    margin: auto;
+    box-sizing: border-box;
+    padding-top: 20px;
+    
+    height: 400px;
+    width: 30%;
+    text-align: center;
+    display: none;
+    border-radius: 40px;
+    background: rgb(254, 240, 255);
+    box-shadow:  9px 9px 18px rgb(234, 175, 234),
+                 -9px -9px 18px #ffffff;
+}
+
+#ru {
+    
+   
+    margin-top: -2px;
+    text-align: left;
+}
+
+#eng {
+    font-family: "Squada One", sans-serif;
+    font-size: 30px;
+}
+#ans {
+    margin-top: 10%;
+    display: flex;
+    padding-left: 30px;
+    padding-right: 30px;
+    justify-content: center;
+    box-sizing: border-box;
+    padding-bottom:60px;
+    height: 200px;
+}
+
+.otv {
+    
+    font-size: 40px;
+}
+
+#play_button:hover {
+	font-size: 120px;
+    width: 430px;
+    height: 192px;
+    box-shadow:  0 0 0 rgb(234, 175, 234),
+    0 0 0 #ffffff;
+}
+#word1:hover {
+
+    box-shadow:  0 0 0 rgb(234, 175, 234),
+    0 0 0 #ffffff;
+}
+#word2:hover {
+    box-shadow:  0 0 0 rgb(234, 175, 234),
+    0 0 0 #ffffff;
+}
+#word3:hover {
+	
+    box-shadow:  0 0 0 rgb(234, 175, 234),
+    0 0 0 #ffffff;
+}
+#word4:hover {
+	
+    box-shadow:  0 0 0 rgb(234, 175, 234),
+    0 0 0 #ffffff;
+}
+#answer:focus {
+	display: none;
+    box-shadow:  0 0 0 rgb(234, 175, 234),
+    0 0 0 #ffffff;
+    
+}
