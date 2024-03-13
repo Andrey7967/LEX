@@ -5137,6 +5137,6 @@ switchColor.addEventListener("click", () => {
 });
 
 
-fRange.addEventListener("input" , ()=> {
+fRange.addEventListener("change" , () => {
     playButton.style.background = "ffffff";
 });
