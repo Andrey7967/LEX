@@ -5008,6 +5008,9 @@ let word4 = document.getElementById("word4");
 let answer = document.getElementById("answer");
 let switchColor = document.getElementById("app");
 let colorPicker  = document.getElementById("picker");
+let fRange = document.getElementById("first");
+let sRange = document.getElementById("second");
+
 let numOfWords = 5000;
 
 function changeColor() {
@@ -5134,3 +5137,6 @@ switchColor.addEventListener("click", () => {
 });
 
 
+fRange.addEventListener("input" , ()=> {
+    playButton.style.background = "ffffff";
+});
