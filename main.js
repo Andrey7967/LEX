@@ -15,23 +15,19 @@ let Database = [
   [" absent "," отсутствующий "],
   [" absorb "," впитывать, поглощать "],
   [" abundant "," обильный "],
-  [" abuse "," оскорблять, бранить, брань "],
-  [" abuse "," злоупотреблять "],
-  [" abuse "," насилие, домогательство "],
+  [" abuse "," оскорблять, бранить, брань | злоупотреблять | насилие, домогательство"],
   [" accelerate "," ускорять "],
   [" accept "," принять "],
   [" access "," доступ "],
   [" accessory "," принадлежность, аксессуар "],
-  [" accident "," случайность "],
-  [" accident "," происшествие, напр.  ДТП "],
+  [" accident "," случайность |  происшествие, напр.  ДТП "],
   [" acclaim "," приветствовать, аплодировать "],
   [" accommodate "," размещать, вмещать "],
   [" accompany "," сопровождать "],
   [" accomplish "," выполнить, завершить "],
   [" accord "," согласие "],
   [" according to "," в соответствии "],
-  [" account "," счёт (в банке) "],
-  [" account "," отчёт "],
+  [" account "," счёт (в банке) | отчёт"],
   [" account for "," объяснить (произошедшее) "],
   [" accurate "," точный "],
   [" accuse "," обвинять "],
@@ -59,8 +55,7 @@ let Database = [
   [" admire "," восхищаться "],
   [" admit "," признавать, допускать "],
   [" adolescent "," подросток, подростковый "],
-  [" adopt "," принимать, перенимать "],
-  [" adopt "," усыновить или взять (животное) "],
+  [" adopt "," принимать, перенимать | усыновить или взять (животное)"],
   [" adore "," обожать "],
   [" adorn "," украшать "],
   [" adult "," взрослый "],
@@ -75,10 +70,8 @@ let Database = [
   [" advice "," совет (неисчисл!) "],
   [" advise "," советовать "],
   [" advocate "," защищать, отстаивать "],
-  [" aerial "," воздушный "],
-  [" aerial "," антенна "],
-  [" affair "," дело, занятие "],
-  [" affair "," роман, любовная история "],
+  [" aerial "," воздушный | aнтенна"],
+  [" affair "," дело, занятие | роман, любовная история"],
   [" affect "," воздействовать "],
   [" affection "," привязанность, влечение "],
   [" affiliate "," филиал, отделение, мл. партнёр "],
@@ -89,8 +82,7 @@ let Database = [
   [" afraid "," напуганный "],
   [" after all "," всё-таки, в конце концов "],
   [" aftermath "," последствие, результат "],
-  [" age "," век, эпоха "],
-  [" age "," возраст "],
+  [" age "," век, эпоха | возраст"],
   [" agenda "," повестка дня "],
   [" aggravate "," обострять "],
   [" aggregate "," совокупный "],
@@ -186,19 +178,18 @@ let Database = [
   [" appal "," потрясать, ужасать "],
   [" apparent "," явный, видимый "],
   [" appeal "," обращаться, взывать "],
-  [" appear "," появиться "],
-  [" appear "," казаться "],
+  [" appear "," появиться | казаться"],
+ 
   [" applause "," аплодисменты "],
   [" appliance "," прибор, приспособление "],
-  [" apply "," применять, применяться "],
-  [" apply "," обращаться (с заявлением) "],
+  [" apply "," применять, применяться | обращаться (с заявлением) "],
+
   [" appoint "," назначать, утверждать "],
   [" appraise "," оценивать "],
   [" appreciate "," ценить "],
   [" apprentice "," ученик, стажёр "],
   [" approach "," приближаться, подходить "],
-  [" appropriate "," присвоить "],
-  [" appropriate "," подходящий, присущий "],
+  [" appropriate "," присвоить | подходящий, присущий"],
   [" approve "," утвердить, одобрить (офиц.) "],
   [" approve of "," одобрять (субъективно) "],
   [" approximate "," приблизительный "],
@@ -223,8 +214,8 @@ let Database = [
   [" arrogant "," высокомерный "],
   [" arrow "," стрела, стрелка "],
   [" arson "," поджог "],
-  [" article "," статья "],
-  [" article "," вещь, изделие "],
+  [" article "," статья | вещь, изделие"],
+
   [" artificial "," искусственный "],
   [" as though "," как будто "],
   [" as well "," также "],
@@ -251,8 +242,7 @@ let Database = [
   [" assimilate "," усваивать "],
   [" assist "," помогать "],
   [" associate "," общаться, связываться "],
-  [" assume "," принимать на себя "],
-  [" assume "," предпогалать "],
+  [" assume "," принимать на себя | предпогалать"],
   [" assure "," уверять "],
   [" astonish "," изумлять "],
   [" astound "," изумлять "],
@@ -300,15 +290,13 @@ let Database = [
   [" awkward "," неуклюжий "],
   [" axe (ax) "," топор "],
   [" axis "," ось "],
-  [" bachelor "," бакалавр "],
-  [" bachelor "," холостяк "],
-  [" back down "," отступить, отказаться "],
+  [" bachelor "," бакалавр | холостяк"],
+  [" back down "," отступить, отказаться"],
   [" back then "," тогда "],
   [" back up "," поддержать, прикрыть "],
   [" backbone "," хребет "],
   [" backdrop "," фон "],
-  [" background "," происхождение, предыстория и т.д. "],
-  [" background "," фон "],
+  [" background "," происхождение, предыстория и т.д. | фон"],
   [" backpack "," рюкзак "],
   [" badge "," значок "],
   [" baffled "," в неодумении, в тупике "],
@@ -330,16 +318,14 @@ let Database = [
   [" bankrupt "," банкрот, неплатежеспособный "],
   [" banner "," знамя, транспарант "],
   [" baptize "," крестить "],
-  [" bar "," пластина, брусок, прут и т. д. "],
-  [" bar "," загораживать "],
+  [" bar "," пластина, брусок, прут и т. д. |загораживать"],
   [" barb "," шип, зазубрина "],
   [" barber "," парикмахер "],
   [" bare "," голый "],
   [" barefoot "," босиком "],
   [" barely "," едва, лишь только "],
   [" bargain "," сделка, торговаться "],
-  [" bark "," кора "],
-  [" bark "," лаять "],
+  [" bark "," кора | лаять"],
   [" barn "," сарай "],
   [" barrel "," бочка "],
   [" barren "," бесплодный "],
@@ -349,8 +335,7 @@ let Database = [
   [" bash "," колотить "],
   [" basket "," корзина "],
   [" bastard "," ублюдок "],
-  [" bat "," бита "],
-  [" bat "," летучая мышь "],
+  [" bat "," бита | летучая мышь"],
   [" batch "," партия, серия, группа "],
   [" bath "," ванна "],
   [" bathe "," купаться, купать "],
@@ -369,15 +354,12 @@ let Database = [
   [" be up to "," замышлять что-то "],
   [" bead "," шарик, бусинка "],
   [" beak "," клюв "],
-  [" beam "," балка, перекладина "],
-  [" beam "," луч "],
+  [" beam "," балка, перекладина | луч"],
   [" bean "," боб "],
-  [" bear (bore, born) "," рожать "],
-  [" bear (bore, born) "," нести, втч перен. "],
+  [" bear (bore, born) "," рожать | нести, втч перен."],
   [" beard "," борода "],
   [" beast "," зверь, животное, скот "],
-  [" beat (beat, beaten) "," победить "],
-  [" beat (beat, beaten) "," бить "],
+  [" beat (beat, beaten) "," победить | бить"],
   [" beat up "," побить "],
   [" beauty "," красота или красавица "],
   [" beaver "," бобр "],
@@ -421,8 +403,7 @@ let Database = [
   [" bicycle "," велосипед "],
   [" bid "," заявка, предложение цены "],
   [" bigot "," фанатик "],
-  [" bill "," счёт (к оплате) "],
-  [" bill "," банкнота "],
+  [" bill "," счёт (к оплате) | банкнота"],
   [" billboard "," рекламный щит "],
   [" billion "," миллиард "],
   [" bin "," ящик, ведро, ларь "],
@@ -441,8 +422,7 @@ let Database = [
   [" bland "," пресный, мягкий "],
   [" blank "," пустой, чистый "],
   [" blanket "," одеяло, покрывало "],
-  [" blast "," дуновение, порыв "],
-  [" blast "," взрыв, взрывать "],
+  [" blast "," дуновение, порыв | взрыв, взрывать"],
   [" blatant "," явный, вопиющий "],
   [" blaze "," полыхать, пламя "],
   [" bleach "," отбелить, обесцветить "],
@@ -455,16 +435,14 @@ let Database = [
   [" bliss "," блаженство "],
   [" blizzard "," метель, буран "],
   [" bloat "," раздуваться "],
-  [" block "," кусок, глыба и т. д. "],
-  [" block "," квартал "],
+  [" block "," кусок, глыба и т. д. |  квартал"],
   [" block out "," блокировать, не пускать "],
   [" block up "," забиться (о канале) "],
   [" blonde "," блондинка "],
   [" bloom "," расцвет, расцветать "],
   [" blossom "," цвести, цвет "],
   [" blouse "," блузка "],
-  [" blow (blew blown) "," дуть "],
-  [" blow (blew blown) "," удар "],
+  [" blow (blew blown) "," дуть | удар"],
   [" blow out "," задуть (свечу) "],
   [" blow over "," пройти, утихнуть "],
   [" blow up "," взорвать "],
@@ -473,17 +451,14 @@ let Database = [
   [" blunt "," тупой, притуплять "],
   [" blur "," размывать, смазывать "],
   [" blush "," румянец, краснеть "],
-  [" board "," совет, коллегия "],
-  [" board "," доска "],
-  [" board "," борт, подниматься на борт "],
+  [" board "," совет, коллегия | доска | борт, подниматься на борт"],
   [" boast "," хвастать, хвастовство "],
   [" boat "," лодка, судно "],
   [" bog "," болото, трясина "],
   [" boil "," кипеть, кипятить, варить "],
   [" bold "," смелый, дерзкий, безрассудный "],
   [" bolster "," укреплять, поддерживать "],
-  [" bond "," связь, узы, соединение "],
-  [" bond "," обязательство, облигация "],
+  [" bond "," связь, узы, соединение | обязательство, облигация"],
   [" bone "," кость "],
   [" bonfire "," костер "],
   [" boobs "," титьки "],
@@ -4997,140 +4972,205 @@ let Database = [
   [" zoo "," зоопарк "]];
 
 
+  let fRan = 1;
+  let SRan = 4996;
+  
+  
+  let playButton = document.getElementById("play_button");
+  let body = document.getElementById("body");
+  let guess = document.getElementById("guess");
+  let word1 = document.getElementById("word1");
+  let word2 = document.getElementById("word2");
+  let word3 = document.getElementById("word3");
+  let word4 = document.getElementById("word4");
+  let answer = document.getElementById("answer");
+  let switchColor = document.getElementById("app");
+  let colorPicker  = document.getElementById("picker");
+  let fRange = document.getElementById("first");
+  let sRange = document.getElementById("second");
+  let color = document.getElementById("color");
+  let CompletedCounter = document.getElementById("completed");
+  let WrongCounter = document.getElementById("wrong");
+  let numOfCompleted = 0;
+  let numOfWrong = 0;
+  let numOfWords = 5000;
+  
+  let bufferChosenWords = [];
+  let lastElemInd = 0;
+  function changeColor() {
+      let main = colorPicker.value;
+      let red = parseInt(main[1]+main[2], 16) -20;
+      let green = parseInt(main[3]+main[4], 16)- 65;
+      let blue  =parseInt(main[5]+main[6], 16)-21;
+      let red1 = parseInt(main[1]+main[2], 16) +20;
+      let green1 = parseInt(main[3]+main[4], 16) + 60;
+      let blue1  =parseInt(main[5]+main[6], 16) + 60;
 
-let playButton = document.getElementById("play_button");
-let body = document.getElementById("body");
-let guess = document.getElementById("guess");
-let word1 = document.getElementById("word1");
-let word2 = document.getElementById("word2");
-let word3 = document.getElementById("word3");
-let word4 = document.getElementById("word4");
-let answer = document.getElementById("answer");
-let switchColor = document.getElementById("app");
-let colorPicker  = document.getElementById("picker");
-let numOfWords = 5000;
+      colorPicker.style.background = main;
+      playButton.style.background = main;
+      color.style.background = main;
+      body.style.background = main;
+      word1.style.background = main;
+      word2.style.background = main;
+      word3.style.background = main;
+      word4.style.background = main;
+      guess.style.background = main;
+      answer.style.background = main;
+      switchColor.style.background = main;
+      color.style.boxShadow = "  9px 9px 18px rgb("+ red+"," + green + ","+ blue +"), -9px -9px 18px #ffffff";
+      color.style.boxShadow = "  9px 9px 18px rgb("+ red+"," + green + ","+ blue +"), -9px -9px 18px rgb("+ red1 +"," + green1 + ","+ blue1 +")";
+      playButton.style.boxShadow = "  9px 9px 18px rgb("+ red+"," + green + ","+ blue +"), -9px -9px 18px #ffffff";
+      word1.style.boxShadow = "  9px 9px 18px rgb("+ red+"," + green + ","+ blue +"), -9px -9px 18px #ffffff";
+      word2.style.boxShadow = "  9px 9px 18px rgb("+ red+"," + green + ","+ blue +"), -9px -9px 18px #ffffff";
+      word3.style.boxShadow = "  9px 9px 18px rgb("+ red+"," + green + ","+ blue +"), -9px -9px 18px #ffffff";
+      word4.style.boxShadow = "  9px 9px 18px rgb("+ red+"," + green + ","+ blue +"), -9px -9px 18px #ffffff";
+      guess.style.boxShadow = "  9px 9px 18px rgb("+ red+"," + green + ","+ blue +"), -9px -9px 18px #ffffff";
+      answer.style.boxShadow = "  9px 9px 18px rgb("+ red+"," + green + ","+ blue +"), -9px -9px 18px rgb("+ red1 +"," + green1 + ","+ blue1 +")";
+      playButton.style.boxShadow = "  9px 9px 18px rgb("+ red+"," + green + ","+ blue +"), -9px -9px 18px rgb("+ red1 +"," + green1 + ","+ blue1 +")";
+      word1.style.boxShadow = "  9px 9px 18px rgb("+ red+"," + green + ","+ blue +"), -9px -9px 18px rgb("+ red1 +"," + green1 + ","+ blue1 +")";
+      word2.style.boxShadow = "  9px 9px 18px rgb("+ red+"," + green + ","+ blue +"), -9px -9px 18px rgb("+ red1 +"," + green1 + ","+ blue1 +")";
+      word3.style.boxShadow = "  9px 9px 18px rgb("+ red+"," + green + ","+ blue +"), -9px -9px 18px rgb("+ red1 +"," + green1 + ","+ blue1 +")";
+      word4.style.boxShadow = "  9px 9px 18px rgb("+ red+"," + green + ","+ blue +"), -9px -9px 18px rgb("+ red1 +"," + green1 + ","+ blue1 +")";
+      guess.style.boxShadow = "  9px 9px 18px rgb("+ red+"," + green + ","+ blue +"), -9px -9px 18px rgb("+ red1 +"," + green1 + ","+ blue1 +")";
+      answer.style.boxShadow = "  9px 9px 18px rgb("+ red+"," + green + ","+ blue +"), -9px -9px 18px rgb("+ red1 +"," + green1 + ","+ blue1 +")";
+     
+      
+     
+  
+  }
+  
+  function fillWords(first,second,changedRange) {
 
-function changeColor() {
-    let main = colorPicker.value;
-    let red = parseInt(main[1]+main[2], 16) -20;
-    let green = parseInt(main[3]+main[4], 16)- 65;
-    let blue  =parseInt(main[5]+main[6], 16)-21;
-    let red1 = parseInt(main[1]+main[2], 16) +20;
-    let green1 = parseInt(main[3]+main[4], 16) + 60;
-    let blue1  =parseInt(main[5]+main[6], 16) + 60;
-    playButton.style.background = main;
-    body.style.background = main;
-    word1.style.background = main;
-    word2.style.background = main;
-    word3.style.background = main;
-    word4.style.background = main;
-    guess.style.background = main;
-    answer.style.background = main;
-    switchColor.style.background = main;
-    playButton.style.boxShadow = "  9px 9px 18px rgb("+ red+"," + green + ","+ blue +"), -9px -9px 18px #ffffff";
-    word1.style.boxShadow = "  9px 9px 18px rgb("+ red+"," + green + ","+ blue +"), -9px -9px 18px #ffffff";
-    word2.style.boxShadow = "  9px 9px 18px rgb("+ red+"," + green + ","+ blue +"), -9px -9px 18px #ffffff";
-    word3.style.boxShadow = "  9px 9px 18px rgb("+ red+"," + green + ","+ blue +"), -9px -9px 18px #ffffff";
-    word4.style.boxShadow = "  9px 9px 18px rgb("+ red+"," + green + ","+ blue +"), -9px -9px 18px #ffffff";
-    guess.style.boxShadow = "  9px 9px 18px rgb("+ red+"," + green + ","+ blue +"), -9px -9px 18px #ffffff";
-    answer.style.boxShadow = "  9px 9px 18px rgb("+ red+"," + green + ","+ blue +"), -9px -9px 18px rgb("+ red1 +"," + green1 + ","+ blue1 +")";
-    playButton.style.boxShadow = "  9px 9px 18px rgb("+ red+"," + green + ","+ blue +"), -9px -9px 18px rgb("+ red1 +"," + green1 + ","+ blue1 +")";
-    word1.style.boxShadow = "  9px 9px 18px rgb("+ red+"," + green + ","+ blue +"), -9px -9px 18px rgb("+ red1 +"," + green1 + ","+ blue1 +")";
-    word2.style.boxShadow = "  9px 9px 18px rgb("+ red+"," + green + ","+ blue +"), -9px -9px 18px rgb("+ red1 +"," + green1 + ","+ blue1 +")";
-    word3.style.boxShadow = "  9px 9px 18px rgb("+ red+"," + green + ","+ blue +"), -9px -9px 18px rgb("+ red1 +"," + green1 + ","+ blue1 +")";
-    word4.style.boxShadow = "  9px 9px 18px rgb("+ red+"," + green + ","+ blue +"), -9px -9px 18px rgb("+ red1 +"," + green1 + ","+ blue1 +")";
-    guess.style.boxShadow = "  9px 9px 18px rgb("+ red+"," + green + ","+ blue +"), -9px -9px 18px rgb("+ red1 +"," + green1 + ","+ blue1 +")";
-    answer.style.boxShadow = "  9px 9px 18px rgb("+ red+"," + green + ","+ blue +"), -9px -9px 18px rgb("+ red1 +"," + green1 + ","+ blue1 +")";
-   
-    switchColor.style.boxShadow = "  9px 9px 18px rgb("+ red+"," + green + ","+ blue +"), -9px -9px 18px rgb("+ red1 +"," + green1 + ","+ blue1 +")";
-   
+    if(bufferChosenWords.length ==  0 || changedRange) {
+        bufferChosenWords = [];
+        for(let c = first; c <=second; c++) {
+            bufferChosenWords.push(c);
+        }
 
-}
-
-function fillWords() {
-    let rand = Math.floor(Math.random() * numOfWords);
-    guess.innerHTML = Database[rand][0];
-    let randomWords = ["","","",""];
-    let rad = Math.floor(Math.random() * 4);
-    randomWords[rad] = Database[rand][1];
-    let ran = 0;
-    let randAdresses = [-1,-1,-1,-1];
-    randAdresses[rad] = rand;
-    answer.childNodes[3].childNodes[0].innerHTML = Database[rand][0];
-    answer.childNodes[3].childNodes[4].innerHTML =   Database[rand][1];
-   
-    for(let i=0;i<4;i++) {
-      if(i!=rad) {
-        ran =  Math.floor(Math.random() * numOfWords);
-        if(ran == randAdresses[0] || ran == randAdresses[1] || ran == randAdresses[2] || ran == randAdresses[3] ) {
-            i--;
-        } else {
-            randAdresses[i] = ran;
-            randomWords[i] = Database[ran][1]; 
-
+    }
+        let ra = Math.floor(Math.random() * bufferChosenWords.length);
+        let rand;
+        do {
+            rand = bufferChosenWords[ra];
+        }
+        while(lastElemInd == rand);
+      guess.innerHTML = Database[rand][0];
+      let randomWords = ["","","",""];
+      let rad = Math.floor(Math.random() * 4);
+      randomWords[rad] = Database[rand][1];
+     
+     
+  
+      let ran = 0;
+      let randAdresses = [-1,-1,-1,-1];
+      randAdresses[rad] = rand;
+      answer.childNodes[3].childNodes[0].innerHTML = Database[rand][0];
+      answer.childNodes[3].childNodes[4].innerHTML =  Database[rand][1];
+     
+      for(let i=0;i<4;i++) {
+        if(i!=rad) {
+          ran =  Math.floor(Math.random() * (second-first+1));
+          if(ran == randAdresses[0] || ran == randAdresses[1] || ran == randAdresses[2] || ran == randAdresses[3] ) {
+              i--;
+          } else {
+              randAdresses[i] = ran;
+              randomWords[i] = Database[ran][1]; 
+  
+          }
         }
       }
+      word1.innerHTML = randomWords[0] ;
+      word2.innerHTML =randomWords[1] ;
+      word3.innerHTML = randomWords[2];
+      word4.innerHTML = randomWords[3];
+     
+      bufferChosenWords.splice(ra,1);
+      if(bufferChosenWords.length ==  1) {
+        lastElemInd = rand;
     }
-    word1.innerHTML = randomWords[0] ;
-    word2.innerHTML =randomWords[1] ;
-    word3.innerHTML = randomWords[2];
-    word4.innerHTML = randomWords[3];
-    return rad;
-}
-function checkAnswer(rad,num) {
-    if(rad == num) {
-        address = fillWords();
-    } else {
-        guess.style.display = "none";
-        word1.style.display = "none";
-        word2.style.display = "none";
-        word3.style.display = "none";
-        word4.style.display = "none";
-        answer.style.display = "block";
-    }
-}
-
-let address = fillWords();
-
-playButton.addEventListener("click", () => {
-    playButton.style.display = "none";
-    guess.style.display = "block";
-    word1.style.display = "block";
-    word2.style.display = "block";
-    word3.style.display = "block";
-    word4.style.display = "block";
-});
-
-word1.addEventListener("click", () => {
-    checkAnswer(address,0);
-
-});
-word2.addEventListener("click", () => {
-    checkAnswer(address,1);
-
-});
-word3.addEventListener("click", () => {
-    checkAnswer(address,2);
-
-});
-word4.addEventListener("click", () => {
-    checkAnswer(address,3);
-
-});
-
-answer.addEventListener("click", () => {
-    address = fillWords();
-    answer.style.display = "none";
-    guess.style.display = "block";
-    word1.style.display = "block";
-    word2.style.display = "block";
-    word3.style.display = "block";
-    word4.style.display = "block";
-});
-
-switchColor.addEventListener("click", () => {
-    changeColor();
-
-});
-
-
+      return rad;
+  }
+  function checkAnswer(rad,num) {
+      if(rad == num) {
+          address = fillWords(fRan,SRan,0);
+          numOfCompleted++;
+          CompletedCounter.innerHTML = numOfCompleted;
+      } else {
+          guess.style.display = "none"; 
+          word1.style.display = "none";
+          word2.style.display = "none";
+          word3.style.display = "none";
+          word4.style.display = "none";
+          answer.style.display = "block";
+          numOfCompleted++;
+          CompletedCounter.innerHTML = numOfCompleted;
+          numOfWrong++;
+          WrongCounter.innerHTML = numOfWrong;
+      }
+  }
+  
+  let address = fillWords(fRan,SRan,0);
+  
+  playButton.addEventListener("click", () => {
+      playButton.style.display = "none";
+      guess.style.display = "block";
+      word1.style.display = "block";
+      word2.style.display = "block";
+      word3.style.display = "block";
+      word4.style.display = "block";
+  });
+  
+  word1.addEventListener("click", () => {
+      checkAnswer(address,0);
+  
+  });
+  word2.addEventListener("click", () => {
+      checkAnswer(address,1);
+  
+  });
+  word3.addEventListener("click", () => {
+      checkAnswer(address,2);
+  
+  });
+  word4.addEventListener("click", () => {
+      checkAnswer(address,3);
+  
+  });
+  
+  answer.addEventListener("click", () => {
+      address = fillWords(fRan,SRan,0);
+      answer.style.display = "none";
+      guess.style.display = "block";
+      word1.style.display = "block";
+      word2.style.display = "block";
+      word3.style.display = "block";
+      word4.style.display = "block";
+  });
+  
+  switchColor.addEventListener("click", () => {
+      changeColor();
+  
+  });
+  
+  
+  fRange.addEventListener("change" , () => {
+       fRan = Number(first.value);
+       SRan = Number(second.value);
+     
+       fillWords(fRan,SRan,1);
+       numOfCompleted = 0;
+       CompletedCounter.innerHTML = numOfCompleted;
+       numOfWrong = 0;
+       WrongCounter.innerHTML = numOfWrong;
+  });
+  
+  sRange.addEventListener("change" , () => {
+      fRan = Number(first.value);
+      SRan = Number(second.value);
+    
+      fillWords(fRan,SRan,1);
+      numOfCompleted = 0;
+      CompletedCounter.innerHTML = numOfCompleted;
+      numOfWrong= 0 ;
+      WrongCounter.innerHTML = numOfWrong;
+  });
