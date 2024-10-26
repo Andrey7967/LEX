@@ -1,0 +1,1 @@
+Its a program that helps you to learn English Words. Its has about 5000 words, this amount enough to understand a lot of books. The program is easy-to-use and has a function to change a color theme with you personal mood. Enjoy!
